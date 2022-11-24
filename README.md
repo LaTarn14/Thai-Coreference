@@ -18,17 +18,21 @@ Equation as necessary
 Annotation guidelines
 Results total how many tokens, sentences, etc.
 Label distribution
+| Label | Frequency|
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
-| Label | Frequency |
-|———|——————|
 
 ## Experiment setup
 which pre-trained model? How did you retrain embeddings?
 Computer. How long?
 Hyperpพmeter tuning? Dropout? How many epochs?
 
-## results
+## Results
 How did it go? + Interprest results.
 
 ### Model comparison
 | Model | Accuracy
+
+## Conclusion
