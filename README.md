@@ -2,7 +2,9 @@
 Thai Coreference using end-to-end model
 
 ## Introduction
-Motivation: Why is this task interesting or important?
+ในบรรดา NLP downstream task Coreference resolution หรือการหาความหมายถึงสิ่งเดียวกันในโลก ถือเป็น subtask ที่มีความสำคัญ task หนึ่ง Coreference resolution เป็น task ที่จะช่วยให้โมเดลของเราสามารถทำงานได้มีประสิทธิภาพมากขึ้นจากการที่สามารถเรียนรู้และเข้าใจความหมายของคำอย่างแท้จริง 
+ในประวัติศาสตร์ NLP ที่ผ่านมา มีผู้เชี่ยวชาญมากมายได้ทดลองการทำหลายรูปแบบ ทั้ง rule-based และ learning-based เช่น Mention-pair model, Mention ranking model, entity pair model หรือโมเดลที่ใช้ neural network เข้ามาช่วย เช่น End-to-end neural coreference resolution model 
+
 What other people have done? What model have previous work have used? What did they miss? (1-2 paragraphs)
 Summarize your idea
 Summarize your results
