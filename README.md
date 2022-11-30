@@ -2,7 +2,6 @@
 Thai Coreference using end-to-end model
 
 ## Introduction
-<<<<<<< HEAD
 Coreference resolution is considered as an important nlp task helping us improve model performance more effectively by learning and understanding what actually the tokens is referred to in the text.
 
 In the NLP history, many experts have tried the Coreference resolution in both rule-based model and learning-based model such as Mention-pair model, Mention ranking model, entity pair model or the state-of-the-art neural network model for instance End-to-end neural coreference resolution model and also BERT Language model that used to encode language information. To add to it, the later models were developed to fix the problems found in the previous ones.
