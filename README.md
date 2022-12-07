@@ -3,9 +3,9 @@ Coreference Resolution for Thai using neural end-to-end models
 
 ## Introduction
 This repository contains the code from
-- [Higher-order Coreference Resolution with Coarse-to-fine Inference](/abs/1804.05392)
-- [End-to-end Neural Coreference Resolution](/arxiv.org/abs/1707.07045)
-- [20MinsNLP 20190402-Coreference](/drive/16hxZTrJS-yvgdeTspDKju2dsVV-TyPY9)
+- [Higher-order Coreference Resolution with Coarse-to-fine Inference](https://arxiv.org/abs/1804.05392)
+- [End-to-end Neural Coreference Resolution](https://arxiv.org/abs/1707.07045)
+- [20MinsNLP 20190402-Coreference](https://colab.research.google.com/drive/16hxZTrJS-yvgdeTspDKju2dsVV-TyPY9)
 
 Coreference resolution is considered as an important natural language processing task helping us improve model performance more effectively by learning and understanding what actually the tokens is referred to in the text.<p>
 In the NLP history, many experts have tried the Coreference resolution in both rule-based model and learning-based model such as Mention-pair model, Mention ranking model, entity pair model or the state-of-the-art neural network model for instance End-to-end neural coreference resolution model and also BERT Language model that used to encode language information. To add to it, the later models were developed to fix the problems found in the previous ones.
